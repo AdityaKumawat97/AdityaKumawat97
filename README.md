@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - [website] 👋
+### Hi there, I'm Aditya 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adityas-portfolio.netlify.app)
 
