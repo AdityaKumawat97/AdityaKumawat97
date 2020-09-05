@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya's Spotify Playing" width="350" />](https://open.spotify.com/user/56pLmyTqRRDFBHhXnMJeu6)
 
 ### Connect with me:
 
@@ -47,12 +47,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.AdityaKumawat97.vercel.app/api?username=AdityaKumawat97&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://adityas-portfolio.netlify.app
 [twitter]: https://twitter.com/codeSTACKr
