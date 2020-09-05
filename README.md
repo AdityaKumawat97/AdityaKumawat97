@@ -4,7 +4,7 @@
 
 ## I'm new, but a passionate Developer!
 
-- 🔭 I’m currently working on a E-commerce Project!
+- 🔭 I’m currently working on an E-commerce Project!
 - 🌱 I’m currently learning everything 🤣 (Trying my best)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more web technologies and focus on UI/UX
