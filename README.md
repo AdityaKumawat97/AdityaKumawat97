@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣 (Trying my best)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn more web technologies and focus on UI/UX
-- ⚡ Fun fact: I love creating new projects, debating upon socia-economic topics.
+- ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya's Spotify Playing" width="350" />](https://open.spotify.com/user/56pLmyTqRRDFBHhXnMJeu6)
